@@ -1,4 +1,4 @@
-#!c:\users\home\documents\все\языки\parsing\venv\scripts\python.exe
+#!c:\users\home\documents\все\языки\parsing\orfo\venv\scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'future==0.18.3','console_scripts','futurize'
 import re
 import sys

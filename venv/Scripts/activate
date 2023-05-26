@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\home\Documents\все\языки\Parsing\venv"
+VIRTUAL_ENV="C:\Users\home\Documents\все\языки\Parsing\orfo\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

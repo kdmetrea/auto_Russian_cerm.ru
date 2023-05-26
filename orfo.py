@@ -12,9 +12,9 @@ wge_idx = int(input('Введите id задания - '))
 login = input('Введите логин - ')
 password = input('Введите пароль - ')
 auto = str(input('Выполнять полностью автоматически|y-yes or n-no - '))
-if auto == "y":
+if auto == 'y' or auto == 'Y':
     auto = True
-if auto == 'n':
+elif auto == 'n' or auto == 'N':
     auto = False
 else:
     print('Error:Неправельный ввод')

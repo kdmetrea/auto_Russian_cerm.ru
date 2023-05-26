@@ -1,4 +1,4 @@
-#!c:\users\home\documents\все\языки\parsing\venv\scripts\python.exe
+#!c:\users\home\documents\все\языки\parsing\orfo\venv\scripts\python.exe
 # -*- coding: utf-8 -*-
 """
 Bottle is a fast and simple micro-framework for small web applications. It
